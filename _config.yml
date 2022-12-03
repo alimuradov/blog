@@ -3,14 +3,14 @@ baseurl: "/tailpages" # the name of your github repo
 url: "https://harrywang.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "alimuradov.ru - блог разрабочика"
+description: lifestyle, dev, python,1c, vue
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
+author: Nariman Alimuradov
 author-bio: Creator of Bitcoin  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
@@ -18,11 +18,11 @@ author-image: 279.png  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
+- text: Главная
   permalink: about
-- text: Bitcoin
+- text: Контакты
   permalink: bitcoin
-- text: Blog
+- text: Блог
   permalink: blog
 
 # use false to turn off any social media links
@@ -37,7 +37,7 @@ email: false
 
 # footer information
 footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg-link: https://alimiuradov.ru
 
 # google analytics
 google-analytics: G-WCRC1TC2V5
